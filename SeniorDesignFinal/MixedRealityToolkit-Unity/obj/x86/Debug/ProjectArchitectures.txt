@@ -1,0 +1,2 @@
+C:\Users\mzrie\Documents\Github\SeniorDesign\SeniorDesignFinal\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\mzrie\Documents\Github\SeniorDesign\SeniorDesignFinal\MixedRealityToolkit-Unity\MixedRealityToolkit-Unity.csproj;x86
