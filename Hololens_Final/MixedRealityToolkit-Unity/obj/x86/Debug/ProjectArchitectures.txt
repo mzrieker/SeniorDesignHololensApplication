@@ -1,0 +1,2 @@
+C:\Users\mzrie\Documents\Github\HololensApplication\SeniorDesignHololensApplication\Hololens_Final\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\mzrie\Documents\Github\HololensApplication\SeniorDesignHololensApplication\Hololens_Final\MixedRealityToolkit-Unity\MixedRealityToolkit-Unity.csproj;x86
